@@ -14,4 +14,4 @@ To run this project, clone the repository and install the necessary dependencies
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agriculture-area-prediction.git
+   git clone https://github.com/SnipyPie/agriculture-area-prediction.git
